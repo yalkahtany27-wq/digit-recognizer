@@ -120,7 +120,7 @@ Figure 1. Confusion matrix for the validation data. Most of the mass lies on the
 
 ### Ethical Considerations
 
-* **Potential negative impacts of using your model**
+* **Potential negative impacts of using my model**
 
   *Math / software issues*  
   * The model may overfit MNIST-style digits; performance on very different handwriting styles, resolutions, or noise levels is unknown.  
