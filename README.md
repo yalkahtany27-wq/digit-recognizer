@@ -143,4 +143,4 @@ Figure 1. Confusion matrix for the validation data. Most of the mass lies on the
  
 * **Tools and sources used**
   
-This model card and parts of the training code were written by me with assistance from OpenAI’s ChatGPT (GPT-5.1 Thinking), based on the GWU DNSC 6301 example project and the Kaggle Digit Recognizer competition data. I reviewed, edited, and tested all code and text before submitting.
+* This model card and parts of the training code were written by me with assistance from OpenAI’s ChatGPT (GPT-5.1 Thinking), based on the GWU DNSC 6301 example project and the Kaggle Digit Recognizer competition data. I reviewed, edited, and tested all code and text before submitting. 
