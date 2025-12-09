@@ -141,5 +141,5 @@ Figure 1. Confusion matrix for the validation data. Most of the mass lies on the
   * A relatively small CNN trained for only a modest number of epochs achieved high performance (~98.8% validation accuracy and 0.98935 Kaggle public accuracy).  
   * Most remaining errors are between digits that are visually similar to humans, suggesting that additional data augmentation or slightly deeper architectures could reduce these mistakes further.
  
-* Tools and sources used:
+  **Tools and sources used:**
 This model card and parts of the training code were written by me with assistance from OpenAI’s ChatGPT (GPT-5.1 Thinking), based on the GWU DNSC 6301 example project and the Kaggle Digit Recognizer competition data. I reviewed, edited, and tested all code and text before submitting.
