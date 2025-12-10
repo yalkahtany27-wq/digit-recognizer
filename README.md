@@ -116,7 +116,6 @@ Table 1. Accuracy values across data partitions and Kaggle public leaderboard.
 
 Figure 1. Confusion matrix for the validation data. Most of the mass lies on the diagonal, which means the CNN correctly predicts most digits. The few off-diagonal cells correspond to rare confusions between visually similar digits (for example, some 3/5/8 mistakes).
 
-Because this is a 10-class digit classification problem with no demographic attributes, AUC and AIR are not applicable; we use classification accuracy instead.
 ---
 
 ### Ethical Considerations
